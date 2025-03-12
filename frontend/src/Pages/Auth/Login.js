@@ -209,7 +209,7 @@ const Login = () => {
             </Form>
           </Col>
         </Row>
-        <p className="text-center animated-text mt-3">Created by Avinash Reddy</p>
+        <p className="text-center animated-text mt-3">Created by Sheetal</p>
         <ToastContainer />
       </Container>
     </div>
